@@ -1,0 +1,2 @@
+# cridusbot
+personal discord bot

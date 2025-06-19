@@ -1,2 +1,2 @@
-# cridusbot
+# Cridus Discord Bot
 personal discord bot

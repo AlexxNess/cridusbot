@@ -1,0 +1,35 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Env files
+.env
+*.env
+
+# Token and secrets
+secret.txt
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# JetBrains IDEs (PyCharm, etc.)
+.idea/
